@@ -1,0 +1,21 @@
+{
+    "header.title": "Formation angulaire",
+    "header.language": "Langues:",
+    "header.addUser": "+ Nouveau",
+    "users.list": "Gérer les utilisateurs",
+    "users.loading": "Chargement d'utilisateurs...",
+    "users.pagination.previous": "",
+    "users.pagination.next": "",
+    "users.action": "Action",
+    "users.action.update": "Modifier",
+    "users.action.delete": "Supprimer",
+    "users.id":"Id",
+    "users.avatar" :"Avatar",
+    "users.firstName":"Prenom",
+    "users.lastName":"Nom",
+    "users.email":"Adresse Email",
+    "sidebar.home":"Acceuil",
+    "sidebar.manageUsers":"Gérer utilisateurs",
+    "welcome.message":"Bienvenue dans cette application de test!"
+  }
+  
